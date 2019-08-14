@@ -3,7 +3,7 @@ ADCS Demo
 
 #### An Attitude Determination and Control System (ADCS) demo.
 
-Created for [OpenCosmos](https://www.open-cosmos.com/), this project uses off-the-shelf components to demonstrate the principle of operation of an ADCS.
+Created for [Open Cosmos](https://www.open-cosmos.com/), this project uses off-the-shelf components to demonstrate the principle of operation of an ADCS.
 
 ---
 

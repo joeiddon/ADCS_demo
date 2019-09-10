@@ -1,6 +1,6 @@
 This folder contains the `.stl` 3D model files that are ready to be sent to a 3D printer to be sliced and printed.
 
-See the README in the parent `scads` directory for descriptions of the designs here.
+For descriptions of the designs, see the README in the sibling `/scads` directory.
 
 To view any particular design just click on it and GitHub will render it here in the browser for you.
 

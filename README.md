@@ -5,6 +5,8 @@ ADCS Demo
 
 Created for [Open Cosmos](https://www.open-cosmos.com/), this project uses off-the-shelf components to demonstrate the principle of operation of an ADCS.
 
+See videos and pictures of the development process and a working protoype in [this Google Photos Album](https://photos.app.goo.gl/isr3sSZi2DETxmJA6).
+
 ---
 
 ### What is an ADCS?
